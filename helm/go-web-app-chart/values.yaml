@@ -2,7 +2,7 @@ replicaCount: 1
 
 image: 
   repository: temelkarabacak/go-web-app
-  tag: v1
+  tag: 10121621931
   pullPolicy: IfNotPresent
 
 ingress:
